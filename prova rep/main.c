@@ -18,7 +18,7 @@
  * 
  */
 int main(int argc, char** argv) {
-    ciao
+    ciao picone è gay
     return (EXIT_SUCCESS);
 }
 
