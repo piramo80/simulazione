@@ -18,7 +18,7 @@
  * 
  */
 int main(int argc, char** argv) {
-
+    ciao
     return (EXIT_SUCCESS);
 }
 
