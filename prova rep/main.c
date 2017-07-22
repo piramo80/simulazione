@@ -10,8 +10,8 @@ main
  */
 #include <stdio.h>
 #include <stdlib.h>
-void generatore(int *a);
-
+int lol(int );
+void generatore(int **a);
 int main(int argc, char** argv) {
     
     
