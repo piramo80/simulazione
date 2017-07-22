@@ -1,22 +1,16 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+funzione 1 - generatore
+funzione 2 - menu
+funzione 3 - genera numeri
+funzione 4 - terminazione
+funzione 5 - stampa
+funzione 6 - punti
+funzione 7 - puntatore
+main
  */
-
-/* 
- * File:   main.c
- * Author: gianmarcopiramo
- *
- * Created on 22 luglio 2017, 17.07
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- * 
- */
 int main(int argc, char** argv) {
     
     return (EXIT_SUCCESS);
