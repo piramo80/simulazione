@@ -5,7 +5,7 @@ funzione 3 - genera numeri
 funzione 4 - terminazione
 funzione 5 - stampa
 funzione 6 - punti
-funzione 7 - puntatore
+funzione 7 - puntatori
 main
  */
 #include <stdio.h>
