@@ -18,8 +18,8 @@
  * 
  */
 int main(int argc, char** argv) {
-    ciao picone è gay
-    return (EXIT_SUCCESS(nel senso che hai avuto successo));
+    
+    return (EXIT_SUCCESS);
 }
 
 
