@@ -22,5 +22,6 @@ int main(int argc, char** argv) {
     return (EXIT_SUCCESS);
 }
 
-cazzo culo hehe gio è super gay
+cazzo culo hehe gio è super gay 
+w il sesso
 
