@@ -6,4 +6,4 @@ funzione 4 - terminazione
 funzione 5 - stampa
 funzione 6 - punti
 funzione 7 - puntatore
-main
+mainn
