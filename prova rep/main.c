@@ -10,7 +10,7 @@ main
  */
 #include <stdio.h>
 #include <stdlib.h>
-int lol(int , int );
+int lol(int );
 int main(int argc, char** argv) {
     
     return (EXIT_SUCCESS);
